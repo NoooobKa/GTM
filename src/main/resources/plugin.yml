@@ -1,0 +1,4 @@
+name: GTM
+version: 1.0.0
+main: ru.nbk.gtm.GTM
+api-version: 1.16
